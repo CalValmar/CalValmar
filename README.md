@@ -33,6 +33,7 @@
 <p align="center">
   <a href="https://github.com/CalValmar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalValmar&theme=transparent" />
+  
   <a href="https://github.com/CalValmar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalValmar&theme=transparent" />
   </a>
