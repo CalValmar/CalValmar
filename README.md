@@ -6,12 +6,9 @@
           <img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn+SC&color=0A66DAFF&center=true&vCenter=true&width=600&lines=Welcome+to+the+desert+of+the+real." />
     </a>
      <b></b>
-    <i>
-        <br>
-        - @[Hellcat-IV](https://github.com/Hellcat-IV) contributor 🐱<br>
-    </i><br>
 </p>
 
+- @[Hellcat-IV](https://github.com/Hellcat-IV) contributor 🐱 </br>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/CalValmar)
