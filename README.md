@@ -8,7 +8,7 @@
      <b></b>
     <i>
         <br>
-        @[Hellcat-IV](https://github.com/Hellcat-IV) contributor 🐱<br>
+        - @[Hellcat-IV](https://github.com/Hellcat-IV) contributor 🐱<br>
     </i><br>
 </p>
 
