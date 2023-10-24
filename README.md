@@ -8,8 +8,7 @@
      <b></b>
     <i>
         <br>
-        Currently learning...<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        @[Hellcat-IV](https://github.com/Hellcat-IV) contributor 🐱<br>
     </i><br>
 </p>
 
